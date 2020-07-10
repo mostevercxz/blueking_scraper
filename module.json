@@ -1,0 +1,89 @@
+{
+  "8300": [
+    {
+      "cate": "module",
+      "parent": "8300",
+      "has_children": true,
+      "value_cn": "8300-gs",
+      "value": "8300-gs",
+      "app_id": "100415",
+      "id": "module###8300-gs###100415"
+    },
+    {
+      "cate": "module",
+      "parent": "8300",
+      "has_children": true,
+      "value_cn": "8300-gw",
+      "value": "8300-gw",
+      "app_id": "100415",
+      "id": "module###8300-gw###100415"
+    },
+    {
+      "cate": "module",
+      "parent": "8300",
+      "has_children": true,
+      "value_cn": "8300-sc",
+      "value": "8300-sc",
+      "app_id": "100415",
+      "id": "module###8300-sc###100415"
+    }
+  ],
+  "1001": [
+    {
+      "cate": "module",
+      "parent": "1001",
+      "has_children": true,
+      "value_cn": "1001-gs",
+      "value": "1001-gs",
+      "app_id": "100415",
+      "id": "module###1001-gs###100415"
+    },
+    {
+      "cate": "module",
+      "parent": "1001",
+      "has_children": true,
+      "value_cn": "1001-sc",
+      "value": "1001-sc",
+      "app_id": "100415",
+      "id": "module###1001-sc###100415"
+    },
+    {
+      "cate": "module",
+      "parent": "1001",
+      "has_children": true,
+      "value_cn": "1001-gw",
+      "value": "1001-gw",
+      "app_id": "100415",
+      "id": "module###1001-gw###100415"
+    }
+  ],
+  "2001": [
+    {
+      "cate": "module",
+      "parent": "2001",
+      "has_children": true,
+      "value_cn": "2001-gs",
+      "value": "2001-gs",
+      "app_id": "100415",
+      "id": "module###2001-gs###100415"
+    },
+    {
+      "cate": "module",
+      "parent": "2001",
+      "has_children": true,
+      "value_cn": "2001-sc",
+      "value": "2001-sc",
+      "app_id": "100415",
+      "id": "module###2001-sc###100415"
+    },
+    {
+      "cate": "module",
+      "parent": "2001",
+      "has_children": true,
+      "value_cn": "2001-gw",
+      "value": "2001-gw",
+      "app_id": "100415",
+      "id": "module###2001-gw###100415"
+    }
+  ]
+}

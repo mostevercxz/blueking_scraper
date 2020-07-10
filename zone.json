@@ -1,0 +1,281 @@
+[
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u7a7a\u95f2\u673aSet",
+    "value": "\u7a7a\u95f2\u673aSet",
+    "app_id": "100415",
+    "id": "set###\u7a7a\u95f2\u673aSet###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u6b63\u5f0f\u670dplat0",
+    "value": "0",
+    "app_id": "100415",
+    "id": "set###0###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "PR2\u6570\u636e\u5e93PR2-DB",
+    "value": "PR2-DB",
+    "app_id": "100415",
+    "id": "set###PR2-DB###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u9884\u53d1\u5e03\u6570\u636e\u5e93PRE-DB",
+    "value": "PRE-DB",
+    "app_id": "100415",
+    "id": "set###PRE-DB###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u9884\u53d1\u5e03plat00",
+    "value": "00",
+    "app_id": "100415",
+    "id": "set###00###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u9884\u53d1\u5e03AQQ8001",
+    "value": "8001",
+    "app_id": "100415",
+    "id": "set###8001###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u9884\u53d1\u5e03AWX8002",
+    "value": "8002",
+    "app_id": "100415",
+    "id": "set###8002###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u9884\u53d1\u5e03IQQ8011",
+    "value": "8011",
+    "app_id": "100415",
+    "id": "set###8011###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u9884\u53d1\u5e03IWX8012",
+    "value": "8012",
+    "app_id": "100415",
+    "id": "set###8012###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u82f9\u679c\u5ba1\u6838\u670d8000",
+    "value": "8000",
+    "app_id": "100415",
+    "id": "set###8000###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "PR2\u73af\u5883RedisPR2-Redis",
+    "value": "PR2-Redis",
+    "app_id": "100415",
+    "id": "set###PR2-Redis###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u9884\u53d1\u5e03RedisPRE-Redis",
+    "value": "PRE-Redis",
+    "app_id": "100415",
+    "id": "set###PRE-Redis###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u538b\u6d4b\u6570\u636e\u5e93Stress-DB",
+    "value": "Stress-DB",
+    "app_id": "100415",
+    "id": "set###Stress-DB###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u538b\u6d4bRedisStress-Redis",
+    "value": "Stress-Redis",
+    "app_id": "100415",
+    "id": "set###Stress-Redis###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "IDC\u538b\u6d4b\u673a\u5668\u4eba99998",
+    "value": "99998",
+    "app_id": "100415",
+    "id": "set###99998###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u538b\u6d4bplat000",
+    "value": "000",
+    "app_id": "100415",
+    "id": "set###000###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u6253\u5305\u4e13\u75287005",
+    "value": "7005",
+    "app_id": "100415",
+    "id": "set###7005###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "IDC\u538b\u6d4b\u670d8200",
+    "value": "8200",
+    "app_id": "100415",
+    "id": "set###8200###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91Plat0000",
+    "value": "0000",
+    "app_id": "100415",
+    "id": "set###0000###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u624bQ\u5b89\u53531\u533a-\u5c0f\u609f\u7a7a1001",
+    "value": "1001",
+    "app_id": "100415",
+    "id": "set###1001###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u5fae\u4fe1\u5b89\u53531\u533a-\u5e03\u5c14\u739b2001",
+    "value": "2001",
+    "app_id": "100415",
+    "id": "set###2001###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u5907\u7528\u8d44\u6e90\u6c6099999",
+    "value": "99999",
+    "app_id": "100415",
+    "id": "set###99999###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u9884\u53d1\u5e03DBpre_cloud_db",
+    "value": "pre_cloud_db",
+    "app_id": "100415",
+    "id": "set###pre_cloud_db###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u538b\u6d4bDBstress_cloud_db",
+    "value": "stress_cloud_db",
+    "app_id": "100415",
+    "id": "set###stress_cloud_db###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u9884\u53d1\u5e03redispre_cloud_redis",
+    "value": "pre_cloud_redis",
+    "app_id": "100415",
+    "id": "set###pre_cloud_redis###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u538b\u6d4bredisstress_cloud_redis",
+    "value": "stress_cloud_redis",
+    "app_id": "100415",
+    "id": "set###stress_cloud_redis###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u538b\u6d4bPlat00000",
+    "value": "00000",
+    "app_id": "100415",
+    "id": "set###00000###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u6b63\u5f0fredisRedis",
+    "value": "Redis",
+    "app_id": "100415",
+    "id": "set###Redis###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u6b63\u5f0fspiderSpider",
+    "value": "Spider",
+    "app_id": "100415",
+    "id": "set###Spider###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u538b\u6d4b\u673a\u5668\u4eba99997",
+    "value": "99997",
+    "app_id": "100415",
+    "id": "set###99997###100415"
+  },
+  {
+    "cate": "set",
+    "parent": "",
+    "has_children": true,
+    "value_cn": "\u81ea\u7814\u4e91\u538b\u6d4b8300",
+    "value": "8300",
+    "app_id": "100415",
+    "id": "set###8300###100415"
+  }
+]

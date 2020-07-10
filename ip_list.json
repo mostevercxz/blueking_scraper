@@ -1,0 +1,674 @@
+{
+  "1001-gs": [
+    {
+      "cate": "ip",
+      "parent": "1001-gs",
+      "has_children": false,
+      "value_cn": "9.140.212.104",
+      "value": "9.140.212.104",
+      "app_id": "100415",
+      "id": "ip###9.140.212.104###100415"
+    }
+  ],
+  "1001-sc": [
+    {
+      "cate": "ip",
+      "parent": "1001-sc",
+      "has_children": false,
+      "value_cn": "100.96.102.27",
+      "value": "100.96.102.27",
+      "app_id": "100415",
+      "id": "ip###100.96.102.27###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-sc",
+      "has_children": false,
+      "value_cn": "100.96.106.206",
+      "value": "100.96.106.206",
+      "app_id": "100415",
+      "id": "ip###100.96.106.206###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-sc",
+      "has_children": false,
+      "value_cn": "100.96.174.214",
+      "value": "100.96.174.214",
+      "app_id": "100415",
+      "id": "ip###100.96.174.214###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-sc",
+      "has_children": false,
+      "value_cn": "100.96.181.6",
+      "value": "100.96.181.6",
+      "app_id": "100415",
+      "id": "ip###100.96.181.6###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-sc",
+      "has_children": false,
+      "value_cn": "100.117.78.23",
+      "value": "100.117.78.23",
+      "app_id": "100415",
+      "id": "ip###100.117.78.23###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-sc",
+      "has_children": false,
+      "value_cn": "9.66.216.135",
+      "value": "9.66.216.135",
+      "app_id": "100415",
+      "id": "ip###9.66.216.135###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-sc",
+      "has_children": false,
+      "value_cn": "9.79.12.104",
+      "value": "9.79.12.104",
+      "app_id": "100415",
+      "id": "ip###9.79.12.104###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-sc",
+      "has_children": false,
+      "value_cn": "9.79.9.173",
+      "value": "9.79.9.173",
+      "app_id": "100415",
+      "id": "ip###9.79.9.173###100415"
+    }
+  ],
+  "1001-gw": [
+    {
+      "cate": "ip",
+      "parent": "1001-gw",
+      "has_children": false,
+      "value_cn": "100.96.88.122",
+      "value": "100.96.88.122",
+      "app_id": "100415",
+      "id": "ip###100.96.88.122###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-gw",
+      "has_children": false,
+      "value_cn": "100.96.94.160",
+      "value": "100.96.94.160",
+      "app_id": "100415",
+      "id": "ip###100.96.94.160###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-gw",
+      "has_children": false,
+      "value_cn": "100.96.94.195",
+      "value": "100.96.94.195",
+      "app_id": "100415",
+      "id": "ip###100.96.94.195###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-gw",
+      "has_children": false,
+      "value_cn": "100.95.156.224",
+      "value": "100.95.156.224",
+      "app_id": "100415",
+      "id": "ip###100.95.156.224###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-gw",
+      "has_children": false,
+      "value_cn": "100.96.108.104",
+      "value": "100.96.108.104",
+      "app_id": "100415",
+      "id": "ip###100.96.108.104###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-gw",
+      "has_children": false,
+      "value_cn": "100.95.182.127",
+      "value": "100.95.182.127",
+      "app_id": "100415",
+      "id": "ip###100.95.182.127###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-gw",
+      "has_children": false,
+      "value_cn": "100.95.178.215",
+      "value": "100.95.178.215",
+      "app_id": "100415",
+      "id": "ip###100.95.178.215###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "1001-gw",
+      "has_children": false,
+      "value_cn": "100.95.170.183",
+      "value": "100.95.170.183",
+      "app_id": "100415",
+      "id": "ip###100.95.170.183###100415"
+    }
+  ],
+  "0-dir": [
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "100.96.160.26",
+      "value": "100.96.160.26",
+      "app_id": "100415",
+      "id": "ip###100.96.160.26###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "100.109.188.78",
+      "value": "100.109.188.78",
+      "app_id": "100415",
+      "id": "ip###100.109.188.78###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "10.50.124.219",
+      "value": "10.50.124.219",
+      "app_id": "100415",
+      "id": "ip###10.50.124.219###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "100.117.78.58",
+      "value": "100.117.78.58",
+      "app_id": "100415",
+      "id": "ip###100.117.78.58###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "9.3.38.6",
+      "value": "9.3.38.6",
+      "app_id": "100415",
+      "id": "ip###9.3.38.6###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "9.66.168.25",
+      "value": "9.66.168.25",
+      "app_id": "100415",
+      "id": "ip###9.66.168.25###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "9.69.14.44",
+      "value": "9.69.14.44",
+      "app_id": "100415",
+      "id": "ip###9.69.14.44###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "9.69.16.62",
+      "value": "9.69.16.62",
+      "app_id": "100415",
+      "id": "ip###9.69.16.62###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "100.113.228.61",
+      "value": "100.113.228.61",
+      "app_id": "100415",
+      "id": "ip###100.113.228.61###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-dir",
+      "has_children": false,
+      "value_cn": "100.117.12.62",
+      "value": "100.117.12.62",
+      "app_id": "100415",
+      "id": "ip###100.117.12.62###100415"
+    }
+  ],
+  "0-gse": [
+    {
+      "cate": "ip",
+      "parent": "0-gse",
+      "has_children": false,
+      "value_cn": "100.117.78.78",
+      "value": "100.117.78.78",
+      "app_id": "100415",
+      "id": "ip###100.117.78.78###100415"
+    }
+  ],
+  "0-plat": [
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "100.96.160.34",
+      "value": "100.96.160.34",
+      "app_id": "100415",
+      "id": "ip###100.96.160.34###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "100.96.160.38",
+      "value": "100.96.160.38",
+      "app_id": "100415",
+      "id": "ip###100.96.160.38###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "100.109.180.50",
+      "value": "100.109.180.50",
+      "app_id": "100415",
+      "id": "ip###100.109.180.50###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "100.117.78.74",
+      "value": "100.117.78.74",
+      "app_id": "100415",
+      "id": "ip###100.117.78.74###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "9.66.168.27",
+      "value": "9.66.168.27",
+      "app_id": "100415",
+      "id": "ip###9.66.168.27###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "9.69.16.57",
+      "value": "9.69.16.57",
+      "app_id": "100415",
+      "id": "ip###9.69.16.57###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "100.113.228.65",
+      "value": "100.113.228.65",
+      "app_id": "100415",
+      "id": "ip###100.113.228.65###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "100.113.228.66",
+      "value": "100.113.228.66",
+      "app_id": "100415",
+      "id": "ip###100.113.228.66###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "100.117.108.97",
+      "value": "100.117.108.97",
+      "app_id": "100415",
+      "id": "ip###100.117.108.97###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "0-plat",
+      "has_children": false,
+      "value_cn": "9.67.190.102",
+      "value": "9.67.190.102",
+      "app_id": "100415",
+      "id": "ip###9.67.190.102###100415"
+    }
+  ],
+  "2001-gs": [
+    {
+      "cate": "ip",
+      "parent": "2001-gs",
+      "has_children": false,
+      "value_cn": "9.140.206.212",
+      "value": "9.140.206.212",
+      "app_id": "100415",
+      "id": "ip###9.140.206.212###100415"
+    }
+  ],
+  "2001-sc": [
+    {
+      "cate": "ip",
+      "parent": "2001-sc",
+      "has_children": false,
+      "value_cn": "100.96.183.67",
+      "value": "100.96.183.67",
+      "app_id": "100415",
+      "id": "ip###100.96.183.67###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-sc",
+      "has_children": false,
+      "value_cn": "9.79.172.68",
+      "value": "9.79.172.68",
+      "app_id": "100415",
+      "id": "ip###9.79.172.68###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-sc",
+      "has_children": false,
+      "value_cn": "9.79.165.236",
+      "value": "9.79.165.236",
+      "app_id": "100415",
+      "id": "ip###9.79.165.236###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-sc",
+      "has_children": false,
+      "value_cn": "9.79.164.65",
+      "value": "9.79.164.65",
+      "app_id": "100415",
+      "id": "ip###9.79.164.65###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-sc",
+      "has_children": false,
+      "value_cn": "9.66.236.212",
+      "value": "9.66.236.212",
+      "app_id": "100415",
+      "id": "ip###9.66.236.212###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-sc",
+      "has_children": false,
+      "value_cn": "9.66.246.17",
+      "value": "9.66.246.17",
+      "app_id": "100415",
+      "id": "ip###9.66.246.17###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-sc",
+      "has_children": false,
+      "value_cn": "9.66.241.5",
+      "value": "9.66.241.5",
+      "app_id": "100415",
+      "id": "ip###9.66.241.5###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-sc",
+      "has_children": false,
+      "value_cn": "9.3.41.169",
+      "value": "9.3.41.169",
+      "app_id": "100415",
+      "id": "ip###9.3.41.169###100415"
+    }
+  ],
+  "2001-gw": [
+    {
+      "cate": "ip",
+      "parent": "2001-gw",
+      "has_children": false,
+      "value_cn": "100.95.188.81",
+      "value": "100.95.188.81",
+      "app_id": "100415",
+      "id": "ip###100.95.188.81###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-gw",
+      "has_children": false,
+      "value_cn": "100.95.146.49",
+      "value": "100.95.146.49",
+      "app_id": "100415",
+      "id": "ip###100.95.146.49###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-gw",
+      "has_children": false,
+      "value_cn": "100.95.126.70",
+      "value": "100.95.126.70",
+      "app_id": "100415",
+      "id": "ip###100.95.126.70###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-gw",
+      "has_children": false,
+      "value_cn": "100.95.148.15",
+      "value": "100.95.148.15",
+      "app_id": "100415",
+      "id": "ip###100.95.148.15###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-gw",
+      "has_children": false,
+      "value_cn": "100.96.91.177",
+      "value": "100.96.91.177",
+      "app_id": "100415",
+      "id": "ip###100.96.91.177###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-gw",
+      "has_children": false,
+      "value_cn": "100.96.91.1",
+      "value": "100.96.91.1",
+      "app_id": "100415",
+      "id": "ip###100.96.91.1###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-gw",
+      "has_children": false,
+      "value_cn": "100.96.85.123",
+      "value": "100.96.85.123",
+      "app_id": "100415",
+      "id": "ip###100.96.85.123###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "2001-gw",
+      "has_children": false,
+      "value_cn": "100.109.185.229",
+      "value": "100.109.185.229",
+      "app_id": "100415",
+      "id": "ip###100.109.185.229###100415"
+    }
+  ],
+  "8300-gs": [
+    {
+      "cate": "ip",
+      "parent": "8300-gs",
+      "has_children": false,
+      "value_cn": "9.150.33.119",
+      "value": "9.150.33.119",
+      "app_id": "100415",
+      "id": "ip###9.150.33.119###100415"
+    }
+  ],
+  "8300-gw": [
+    {
+      "cate": "ip",
+      "parent": "8300-gw",
+      "has_children": false,
+      "value_cn": "9.150.32.174",
+      "value": "9.150.32.174",
+      "app_id": "100415",
+      "id": "ip###9.150.32.174###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-gw",
+      "has_children": false,
+      "value_cn": "9.150.33.57",
+      "value": "9.150.33.57",
+      "app_id": "100415",
+      "id": "ip###9.150.33.57###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-gw",
+      "has_children": false,
+      "value_cn": "9.150.33.74",
+      "value": "9.150.33.74",
+      "app_id": "100415",
+      "id": "ip###9.150.33.74###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-gw",
+      "has_children": false,
+      "value_cn": "9.150.33.104",
+      "value": "9.150.33.104",
+      "app_id": "100415",
+      "id": "ip###9.150.33.104###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-gw",
+      "has_children": false,
+      "value_cn": "9.150.32.219",
+      "value": "9.150.32.219",
+      "app_id": "100415",
+      "id": "ip###9.150.32.219###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-gw",
+      "has_children": false,
+      "value_cn": "9.150.33.38",
+      "value": "9.150.33.38",
+      "app_id": "100415",
+      "id": "ip###9.150.33.38###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-gw",
+      "has_children": false,
+      "value_cn": "9.150.33.163",
+      "value": "9.150.33.163",
+      "app_id": "100415",
+      "id": "ip###9.150.33.163###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-gw",
+      "has_children": false,
+      "value_cn": "9.150.33.106",
+      "value": "9.150.33.106",
+      "app_id": "100415",
+      "id": "ip###9.150.33.106###100415"
+    }
+  ],
+  "8300-sc": [
+    {
+      "cate": "ip",
+      "parent": "8300-sc",
+      "has_children": false,
+      "value_cn": "9.150.33.9",
+      "value": "9.150.33.9",
+      "app_id": "100415",
+      "id": "ip###9.150.33.9###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-sc",
+      "has_children": false,
+      "value_cn": "9.150.33.121",
+      "value": "9.150.33.121",
+      "app_id": "100415",
+      "id": "ip###9.150.33.121###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-sc",
+      "has_children": false,
+      "value_cn": "9.150.32.214",
+      "value": "9.150.32.214",
+      "app_id": "100415",
+      "id": "ip###9.150.32.214###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-sc",
+      "has_children": false,
+      "value_cn": "9.150.32.242",
+      "value": "9.150.32.242",
+      "app_id": "100415",
+      "id": "ip###9.150.32.242###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-sc",
+      "has_children": false,
+      "value_cn": "9.150.32.166",
+      "value": "9.150.32.166",
+      "app_id": "100415",
+      "id": "ip###9.150.32.166###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-sc",
+      "has_children": false,
+      "value_cn": "9.150.33.158",
+      "value": "9.150.33.158",
+      "app_id": "100415",
+      "id": "ip###9.150.33.158###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-sc",
+      "has_children": false,
+      "value_cn": "9.150.33.83",
+      "value": "9.150.33.83",
+      "app_id": "100415",
+      "id": "ip###9.150.33.83###100415"
+    },
+    {
+      "cate": "ip",
+      "parent": "8300-sc",
+      "has_children": false,
+      "value_cn": "9.150.33.129",
+      "value": "9.150.33.129",
+      "app_id": "100415",
+      "id": "ip###9.150.33.129###100415"
+    }
+  ]
+}
